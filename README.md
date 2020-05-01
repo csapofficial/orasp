@@ -1,2 +1,2 @@
-# orasp
-Open Reference Architecture - Security &amp; Privacy
+# ORASP 
+Open Reference Architecture - Security & Privacy
